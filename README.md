@@ -1,74 +1,69 @@
-# PROJETO AMIGO SECRETO - ALETÓRIO
+# SECRET FRIEND PROJECT - RANDOM
 
 ![amigo-secreto61](https://github.com/user-attachments/assets/93843a9d-f7d9-431d-85a4-4d90f1cfa43d)
 
->(IN PORTUGUESE BRAZILIAN)
+⚠️README!⚠️
 
-⚠️LEIA-ME!⚠️
+> This project basically conducts a draw, randomly showing the selected secret friends! :D
 
-> Este projeto basicamente realiza um sorteio, mostrando aleatoriamente os amigos secretos tirados! :D
+## ❗About the Project
 
-## ❗Sobre o projeto                                                              
+This project was developed during the Alura course for the Oracle Next Education program - ONE (8th Group). The script aims to generate names randomly for a Secret Friend game.
 
-Projeto desenvolvido durante o curso da Alura para o programa Oracle Next Education - ONE (8º Grupo). O script tem o intuito de gerar nomes de forma aleatória, para um jogo do Amigo Secreto.
+## ⚙️ Script Workflow
 
-## ⚙️ Roteiro ("Sript")
+> These are the steps (instructions) and the logic of the algorithm as they appear in the "app.js" file:
 
->Basicamente aqui, são os passos (instruções) e a lógica de funcionamento do algoritmo, na ordem que se encontra-se no arquivo: "app.js":
+- [X] Function implemented to add friends;
+- [X] Function coupled with the previous one that performs a check to prevent invalid names (with numbers, special characters, etc.) or duplicate names from being added more than once;
+- [X] Function implemented to randomly select friends from the list;
+- [X] Function implemented to update the list of friends;
+- [X] Function developed to ensure the same name is selected only once;
+- [X] Function developed to automatically clear the input field entered by the user;
+- [X] Function developed to create a new instance of the draw.
 
-- [X] Função implementada para adicionar amigos;
-- [X] Função acoplada com a mesma anterior logo acima, que realiza-se uma verificação para evitar que nomes inválidos (com números, caracteres especiais, etc) e o mesmo nome, seja inserido mais de uma vez;
-- [X] Função implementada para sortear amigos adicionados da lista;
-- [X] Função implementada para atualizar a lista de amigos;
-- [X] Função desenvolvida para realizar uma verificação e garantir que o mesmo nome seja sorteado apenas uma vez;
-- [X] Função desenvolvida para realizar a limpeza automática do campo de entrada, que será digitado pelo usuário.
-- [X] Função desenvolvida para criar uma nova instância do sorteio.
-
-## 🚀 Layout do Aplicativo
+## 🚀 Application Layout
 
 ![Screenshot_20250127_185724](https://github.com/user-attachments/assets/ac590f44-3b19-47ba-9185-e2ea71fa1f46)
 
 
-## ▶️ Como rodar a aplicação
+## ▶️ How to Run the Application
 
-[Acesse o link aqui!](https://luizfelipe010496.github.io/challenge-amigo-secreto_github_luizfelipe010496_pt_br-main/)
-
-
-## 🔧 Linguagens, Libs e Projetos
-
-- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [HTML/CSS](https://www.alura.com.br) 
+[Access the link here!](https://luizfelipe010496.github.io/challenge-amigo-secreto_github_luizfelipe010496_pt_br-main/)
 
 
-## 💻 Pré-requisitos
+## 🔧 Languages, Libraries, and Projects
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [HTML/CSS](https://www.alura.com.br)
 
-- Você utilizou HTML5, CSS3 e JavaScript ES6 ou superior para o desenvolvimento.
-- Você instalou um servidor compatível, como Apache, Nginx ou um ambiente local como XAMPP, WAMP ou Docker.
-- Você configurou uma conexão HTTPS com um certificado SSL/TLS válido.
-- Você tem uma máquina **Windows**, **Linux** ou **Mac**. O site é compatível com os três sistemas operacionais.
-- Você verificou a compatibilidade com navegadores modernos. Certifique-se de que seu site funcione nas seguintes versões:
-  - **Google Chrome:** versão 115 ou superior.
-  - **Mozilla Firefox:** versão 115 ou superior.
-  - **Microsoft Edge:** versão 115 ou superior.
-  - **Safari:** versão 16 ou superior.
-  - **Opera:** versão 100 ou superior.
-  - **Samsung Internet:** versão 20 ou superior.
-- Você leu a [documentação do Google Lighthouse](https://developers.google.com/web/tools/lighthouse/) para melhorar a performance, acessibilidade e SEO do site.
 
-## 😄 Seja um dos contribuidores!
->Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md).
+## 💻 Prerequisites
 
-## 🤝Desenvolvedores/Colaboradores 
->(Developers/Supporters)
+Before starting, ensure you meet the following requirements:
+
+- You used HTML5, CSS3, and JavaScript ES6 or later for development.
+- You installed a compatible server, such as Apache, Nginx, or a local environment like XAMPP, WAMP, or Docker.
+- You configured an HTTPS connection with a valid SSL/TLS certificate.
+- You have a **Windows**, **Linux**, or **Mac** machine. The site is compatible with all three operating systems.
+- You verified compatibility with modern browsers. Make sure your site works with the following versions:
+  - **Google Chrome:** version 115 or later.
+  - **Mozilla Firefox:** version 115 or later.
+  - **Microsoft Edge:** version 115 or later.
+  - **Safari:** version 16 or later.
+  - **Opera:** version 100 or later.
+  - **Samsung Internet:** version 20 or later.
+- You read the [Google Lighthouse documentation](https://developers.google.com/web/tools/lighthouse/) to improve the site's performance, accessibility, and SEO.
+
+## 😄 Become a Contributor!
+>Want to be part of this project? Click [HERE](CONTRIBUTING.md).
+
+
+## 🤝 Developers/Contributors
 
 | [<img src="https://avatars.githubusercontent.com/u/30264786?v=4" width=115><br><sub>Luiz Ferreira</sub>](https://github.com/luizfelipe010496) |  [<img src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4" width=115><br><sub>Alura Team</sub>](https://github.com/alura-cursos) |  [<img src="https://www.oracle.com/a/ocom/img/rh03-one-br-logo.png" width=115><br><sub>Oracle Next Education</sub>](https://github.com/oracle) |
 | :---: | :---: | :---: 
 
-
-## 📝Licença
-(License)
-
+## 📝 License
 <p>Distributed under the No License License.</p>
 2025 - Secret Friend
