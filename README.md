@@ -1,7 +1,7 @@
 ⚠️LEIA-ME!⚠️
 >(IN PORTUGUESE BRAZILIAN)
 
-# AMIGO SECRETO
+# PROJETO AMIGO SECRETO ALETÓRIO 
 
 > Este projeto basicamente realiza um sorteio, mostrando aleatoriamente os amigos secretos! :D
  
