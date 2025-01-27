@@ -2,7 +2,7 @@ LEIA-ME!
 
 # AMIGO SECRETO
 
-> Este projeto basicamente, realiza um sorteio mostrando aleatoriamente os amigos secretos! :D
+> Este projeto basicamente realiza um sorteio, mostrando aleatoriamente os amigos secretos! :D
  
 ### Ajustes e melhorias
 
