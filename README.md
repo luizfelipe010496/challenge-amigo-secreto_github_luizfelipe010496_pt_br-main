@@ -1,10 +1,22 @@
+# PROJETO AMIGO SECRETO ALETÓRIO
+
+![amigo-secreto61](https://github.com/user-attachments/assets/93843a9d-f7d9-431d-85a4-4d90f1cfa43d)
+
 ⚠️LEIA-ME!⚠️
 >(IN PORTUGUESE BRAZILIAN)
 
-# PROJETO AMIGO SECRETO ALETÓRIO 
-
 > Este projeto basicamente realiza um sorteio, mostrando aleatoriamente os amigos secretos! :D
  
+
+
+
+
+
+
+
+
+
+
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
